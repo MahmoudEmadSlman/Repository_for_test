@@ -1,2 +1,1 @@
-# Semple-Calculator
-## by Mahmoud SLMaN
+# by Mahmoud SLMaN
